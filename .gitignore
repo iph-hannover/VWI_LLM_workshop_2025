@@ -1,0 +1,13 @@
+# Node.js / JavaScript
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# allgemeine IDE-Dateien
+.vscode/
+*.log
