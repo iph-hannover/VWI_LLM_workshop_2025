@@ -1,5 +1,6 @@
 # VWI LLM-Workshop 2025
 
+
 ## Erstellen und aktivieren einer Virtual Environment (VE)
 Im Windows Explorer an den gewünschten Pfad navigieren, mit der rechten Maustaste klicken und „in Terminal öffnen“ wählen.
 
@@ -20,6 +21,7 @@ Nun sollte (venv) vor der nächsten Zeile in deinem Terminal stehen.
 
 
 
+
 ## Installation aller erforderlichen Abhängigkeiten mithilfe einer requirements.txt Datei 
 In der requirements.txt Datei sind bereits alle erforderlichen Abhängigkeiten zeilenweise eintragen.
 Bei Bedarf kannst du diese anpassen bzw. ändern und die Datei anschließend speichern (strg+s).
@@ -29,6 +31,7 @@ Um nun alle diese Abhängigkeiten auf einmal zu installieren, gib einfach Folgen
 ```
 pip install -r .\requirements.txt
 ```
+
 
 
 
