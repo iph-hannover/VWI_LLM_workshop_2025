@@ -12,7 +12,9 @@ python -m venv venv
 
 Navigiere zum folgenden Pfad und drücke die Enter, um die neue VE zu aktivieren
 
-```.\venv\Scripts\activate```
+```
+.\venv\Scripts\activate
+```
 
 Nun sollte (venv) ... vor deiner nächsten Zeile im Terminal stehen.
 
@@ -24,7 +26,9 @@ Bei Bedarf kannst du diese anpassen bzw. ändern und die Datei anschließend spe
 
 Um nun alle diese Abhängigkeiten auf einmal zu installieren, gib einfach Folgendes in das Terminal ein
 
-```pip install -r .\requirements.txt```
+```
+pip install -r .\requirements.txt
+```
 
 
 
@@ -37,7 +41,9 @@ Dieses können wir nun mit folgendem Befehl im Terminal starten:
 
 JupyterLab ist die neueste webbasierte interaktive Entwicklungsumgebung für Notebooks, Code und Daten. Mit seiner flexiblen Oberfläche können Benutzer Arbeitsabläufe in den Bereichen Datenwissenschaft, wissenschaftliches Rechnen, Computerjournalismus und maschinelles Lernen konfigurieren und gestalten.
 
-```jupyter lab```
+```
+jupyter lab
+```
 
 Nun sollte sich ein Fenster mit JupyterLab in einem Internet-Browser geöffnet haben.
 Folge den weiteren Anweisungen dort.
