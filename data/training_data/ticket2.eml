@@ -1,0 +1,29 @@
+From: kunde@example.com
+To: support@industrieunternehmen.de
+Subject: Fehlercode E234: Maschine stoppt unerwartet
+X-Category: Störung
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Liebes Serviceteam,
+
+seit heute Morgen melden unsere Sensoren im Stahlpresswerk dauerhaft den Fehl=
+ercode E234. Nach dem Hochfahren lief alles normal, doch nach etwa einer Stun=
+de Produktion blieb die Maschine stehen. In den Logs lesen wir immer wieder d=
+enselben Eintrag: "Error E234: Overcurrent detected". Eine erste =C3=9Cberpr=
+=C3=BCfung der Stromzufuhr ergab keine Auff=C3=A4lligkeiten. Ich f=C3=BCge Au=
+sz=C3=BCge aus dem Logfile unten an.
+
+Log:
+2025-05-28 08:15:23 - INFO - Sensor initialisiert
+2025-05-28 09:05:10 - WARN - Spannungsspitze erkannt
+2025-05-28 09:05:11 - ERROR - Error E234: Overcurrent detected
+2025-05-28 09:05:12 - INFO - Sicherheitsabschaltung
+
+Bitte gebt mir dringend Hinweise, wie wir das Problem beheben k=C3=B6nnen, da=
+ die Produktion stillsteht.
+
+Danke und beste Gr=C3=BC=C3=9Fe,
+Frau M=C3=BCller
+Anlagenbetrieb

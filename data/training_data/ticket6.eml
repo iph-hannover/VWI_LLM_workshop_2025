@@ -1,0 +1,21 @@
+From: kunde@example.com
+To: support@industrieunternehmen.de
+Subject: Parameter X =?utf-8?q?ung=C3=BCltig?= beim Starten
+X-Category: Störung
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hallo,
+
+wenn ich das System starte, erhalte ich sofort die Fehlermeldung: "Parameter =
+X ung=C3=BCltig". Ich habe die Konfigurationsdateien gepr=C3=BCft; alle Param=
+eter sind, soweit ich sehen kann, mit den Vorgaben aus dem Handbuch =C3=BCber=
+einstimmend. Im Anhang sende ich meine config.ini.
+
+K=C3=B6nnen Sie mir sagen, welcher Eintrag genau problematisch ist? Ich habe =
+bereits versucht, die Parameter manuell zu =C3=A4ndern, ohne Erfolg.
+
+Danke,
+Frau Lange
+IT-Support

@@ -1,0 +1,24 @@
+From: kunde@example.com
+To: support@industrieunternehmen.de
+Subject: Installation des Sensormoduls verweigert - Anleitung nicht passend
+X-Category: Installation
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hallo Support-Team,
+
+ich versuche seit gestern, das neue Sensormodul an unserem Montageband zu ins=
+tallieren. Leider weicht die Dokumentation von den tats=C3=A4chlichen Anschlu=
+ssklemmen ab. In der Anleitung steht, dass Pin 5 f=C3=BCr den Erdungskontakt =
+zust=C3=A4ndig ist, jedoch habe ich am Modul Pin 6 hier vorgefunden. Au=C3=9F=
+erdem reagiert das Ger=C3=A4t nicht auf die Initialisierungsfolge, die im Han=
+dbuch steht.
+
+K=C3=B6nnt ihr mir bitte eine aktualisierte Beschreibung oder ein Diagramm se=
+nden, wie der Sensor korrekt angeschlossen wird? Wir stehen kurz vor Produkti=
+onsstart und jede Verz=C3=B6gerung verursacht Kosten.
+
+Beste Gr=C3=BC=C3=9Fe,
+Herr Schmitz
+Fertigungstechnik
