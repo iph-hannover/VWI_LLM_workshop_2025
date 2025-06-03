@@ -16,7 +16,7 @@ Navigiere zum folgenden Pfad und drücke die Enter, um die neue VE zu aktivieren
 .\venv\Scripts\activate
 ```
 
-Nun sollte (venv) ... vor deiner nächsten Zeile im Terminal stehen.
+Nun sollte (venv) vor der nächsten Zeile in deinem Terminal stehen.
 
 
 
