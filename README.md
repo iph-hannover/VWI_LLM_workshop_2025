@@ -6,7 +6,9 @@ Im Windows Explorer an den gewünschten Pfad navigieren, mit der rechten Maustas
 Um eine neue virtuelle Umgebung (VE) zu erstellen, gib folgendes im Terminal ein und bestätige mit Enter
 JupyterLab ist die neueste webbasierte interaktive Entwicklungsumgebung für Notebooks, Code und Daten. Mit seiner flexiblen Oberfläche können Benutzer Arbeitsabläufe in den Bereichen Datenwissenschaft, wissenschaftliches Rechnen, Computerjournalismus und maschinelles Lernen konfigurieren und gestalten.
 
-`python -m venv venv`
+``` 
+python -m venv venv
+```
 
 Navigiere zum folgenden Pfad und drücke die Enter, um die neue VE zu aktivieren
 
