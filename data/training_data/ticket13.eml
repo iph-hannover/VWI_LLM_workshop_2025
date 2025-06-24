@@ -1,0 +1,21 @@
+From: kunde@example.com
+To: support@industrieunternehmen.de
+Subject: Kalibrierungsanfrage: Sensor driftet zu stark
+X-Category: Störung
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Sehr geehrtes Support-Team,
+
+unser Drucksensor in der Verpackungslinie driftet aktuell um mehr als =C2=B13=
+%. Die automatische Selbstkalibrierung scheint fehlerhaft zu arbeiten. Wir ha=
+ben bereits die Kalibrierungsroutine manuell durchgef=C3=BChrt, jedoch ohne E=
+rfolg. In der CSV-Datei im Anhang sehen Sie die aufgezeichneten Messwerte und=
+ Soll-Ist-Abweichungen.
+
+Bitte teilen Sie uns die korrekten Kalibrierungsschritte mit.
+
+Vielen Dank,
+Herr Weber
+Qualit=C3=A4tssicherung
