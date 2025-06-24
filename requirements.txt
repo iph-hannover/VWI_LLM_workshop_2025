@@ -1,1 +1,11 @@
+langchain
+langchain_community
+langchain_openai
+openai
+pypdf
+python-dotenv
+chromadb
+matplotlib
+numpy
+plotly
 jupyterlab
