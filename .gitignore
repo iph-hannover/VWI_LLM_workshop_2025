@@ -11,3 +11,6 @@ venv/
 # allgemeine IDE-Dateien
 .vscode/
 *.log
+
+*.rag
+*db
