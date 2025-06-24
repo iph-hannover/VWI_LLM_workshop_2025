@@ -1,0 +1,20 @@
+From: kunde@example.com
+To: support@industrieunternehmen.de
+Subject: Parameter X =?utf-8?q?ung=C3=BCltig_=E2=80=93?= Konfigurationsfehler
+X-Category: Störung
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hallo Support,
+
+beim Hochfahren der Anlage erscheint direkt: "Konfigurationsparameter X ung=
+=C3=BCltig". Wir haben den Parameterbereich im Handbuch nachgeschlagen, aber =
+finden keinen Hinweis auf erlaubte Werte f=C3=BCr X. Wir senden Ihnen unsere =
+config.yaml im Anhang.
+
+Bitte helfen Sie uns, den korrekten Parameterbereich zu bestimmen.
+
+Gru=C3=9F,
+Frau Schneider
+Prozesssteuerung

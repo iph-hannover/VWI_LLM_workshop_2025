@@ -1,3 +1,23 @@
+# Node.js / JavaScript
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# allgemeine IDE-Dateien
+.vscode/
+*.log
+
+*.rag
+*db
+db
+.rag/Lib/site-packages/**
+db/**/*.bin
+.rag
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
